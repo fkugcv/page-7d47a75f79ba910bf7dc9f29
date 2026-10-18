@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "964cab29e27ba0ce596e226a",
+  "owner": "fkugcv",
+  "repo": "page-7d47a75f79ba910bf7dc9f29",
+  "title": "FreeGate",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7d47a75f79ba910bf7dc9f29",
+      "a": "FreeGate",
+      "b": "",
+      "entity": "FreeGate",
+      "brand": "FreeGate",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cdb059a38bd10d1dd40bb7bb16448bcd58da6058a011bebf3bdeab12ed6bf4a1",
+      "content": {
+        "keyword1": "FreeGate",
+        "keyword2": "",
+        "primary_entity": "FreeGate",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "FreeGate 为网络数据转发与节点调度提供规范化支持。本文档载明连接协议、客户端接入指引、套餐配额及运维常见问题。",
+          "AI_DESCRIPTION": "FreeGate 为网络数据转发与节点调度提供规范化支持。本文档载明连接协议、客户端接入指引、套餐配额及运维常见问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*, *::before, *::after {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: #0b0c0e;color: #c4c8d0;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;line-height: 1.6;font-size: 15px;-webkit-font-smoothing: antialiased}\na {color: #00ff66;text-decoration: none}\na:hover {text-decoration: underline}\nheader {border-bottom: 1px solid #1a1d24;background-color: #0b0c0e;position: sticky;top: 0;z-index: 100}\n.nav-container {max-width: 1200px;margin: 0 auto;padding: 0 32px;height: 48px;display: flex;align-items: center;justify-content: space-between}\n.brand-mark {color: #ffffff;font-weight: 700;letter-spacing: 0.05em;font-size: 14px;text-transform: uppercase}\n.brand-mark span {color: #00ff66}\nnav ul {display: flex;list-style: none;gap: 28px}\nnav a {color: #8a909d;font-size: 13px;letter-spacing: 0.02em;transition: color 0.15s ease}\nnav a:hover {color: #00ff66;text-decoration: none}\nmain {max-width: 1200px;margin: 0 auto;padding: 0 32px}\n.hero {padding: 96px 0 120px 0;display: grid;grid-template-columns: minmax(320px, 460px) 1fr;min-height: 70vh;align-items: center}\n.hero-content {display: flex;flex-direction: column;gap: 24px}\n.hero-tag {font-size: 12px;letter-spacing: 0.12em;text-transform: uppercase;color: #00ff66;font-weight: 600}\nh1 {font-size: 38px;line-height: 1.2;color: #ffffff;font-weight: 600;letter-spacing: -0.02em}\n.hero-desc {font-size: 15px;color: #9299a8;line-height: 1.7}\n.hero-actions {display: flex;gap: 16px;margin-top: 8px}\n.btn-primary {display: inline-block;background-color: #00ff66;color: #050608;padding: 10px 22px;font-size: 13px;font-weight: 600;border-radius: 0;letter-spacing: 0.02em}\n.btn-primary:hover {background-color: #1cfc73;text-decoration: none}\n.btn-secondary {display: inline-block;border: 1px solid #232730;color: #d1d5db;padding: 10px 22px;font-size: 13px;font-weight: 500}\n.btn-secondary:hover {border-color: #3b4252;text-decoration: none;color: #ffffff}\n.hero-void {display: block}\nsection {padding: 80px 0;border-top: 1px solid #16181f}\n.section-header {margin-bottom: 48px}\n.section-kicker {font-size: 11px;letter-spacing: 0.14em;color: #00ff66;text-transform: uppercase;margin-bottom: 8px;display: block}\nh2 {font-size: 24px;color: #ffffff;font-weight: 500;letter-spacing: -0.01em}\n.specs-grid {display: grid;grid-template-columns: repeat(3, 1fr);gap: 56px}\n.spec-block {padding: 0}\nh3 {font-size: 15px;color: #ffffff;font-weight: 600;margin-bottom: 12px}\n.spec-block p {font-size: 14px;color: #8c93a3;line-height: 1.7}\n.table-wrap {width: 100%;overflow-x: auto}\ntable {width: 100%;border-collapse: collapse;text-align: left;font-size: 14px}\nth, td {padding: 18px 20px;border-bottom: 1px solid #16181f}\nth {color: #6c7280;font-weight: 500;font-size: 12px;letter-spacing: 0.05em;text-transform: uppercase;background-color: #0e1014}\ntd {color: #c4c8d0}\ntr:hover td {background-color: #0f1116}\n.plan-name {font-weight: 600;color: #ffffff}\n.badge-featured {display: inline-block;font-size: 11px;color: #00ff66;border: 1px solid #00ff66;padding: 1px 6px;margin-left: 8px;vertical-align: middle}\n.price-tag {color: #ffffff;font-weight: 600}\n.sub-price {font-size: 12px;color: #6c7280;margin-top: 2px}\n.flow-steps {display: grid;grid-template-columns: repeat(4, 1fr);gap: 40px}\n.step-item {padding: 0}\n.step-num {font-size: 12px;font-family: monospace;color: #00ff66;margin-bottom: 16px;display: block}\n.client-info-grid {display: grid;grid-template-columns: repeat(2, 1fr);gap: 60px}\n.client-text p {color: #8c93a3;font-size: 14px;line-height: 1.8;margin-bottom: 16px}\n.protocol-list {list-style: none;border-top: 1px solid #16181f}\n.protocol-list li {padding: 14px 0;border-bottom: 1px solid #16181f;display: flex;justify-content: space-between;font-size: 13px}\n.protocol-name {color: #ffffff;font-family: monospace}\n.protocol-desc {color: #6c7280}\n.faq-grid {display: grid;grid-template-columns: repeat(2, 1fr);gap: 56px 48px}\n.faq-item h3 {font-size: 15px;color: #ffffff;margin-bottom: 10px;font-weight: 500}\n.faq-item p {font-size: 14px;color: #8c93a3;line-height: 1.7}\nfooter {border-top: 1px solid #16181f;padding: 48px 0;font-size: 12px;color: #555b68}\n.footer-container {max-width: 1200px;margin: 0 auto;padding: 0 32px;display: flex;justify-content: space-between;align-items: center}\n@media (max-width: 900px) {\n  .hero {grid-template-columns: 1fr;min-height: auto;padding: 64px 0 80px 0}\n  .specs-grid, .flow-steps, .client-info-grid, .faq-grid {grid-template-columns: 1fr;gap: 36px}\n  .hero-void {display: none}\n  .nav-container {padding: 0 20px}\n  main {padding: 0 20px}\n  .footer-container {padding: 0 20px;flex-direction: column;gap: 16px;align-items: flex-start}\n}\n</style><header>\n  <div class=\"nav-container\">\n    <div class=\"brand-mark\">FreeGate <span>//</span> Core</div>\n    <nav>\n      <ul>\n        <li><a href=\"#plans\">服务规格</a></li>\n        <li><a href=\"#setup\">配置流程</a></li>\n        <li><a href=\"#clients\">终端指引</a></li>\n        <li><a href=\"#faq\">常见问题</a></li>\n      </ul>\n    </nav>\n  </div>\n</header>\n\n<main>\n  <section class=\"hero\">\n    <div class=\"hero-content\">\n      <span class=\"hero-tag\">System Routing Manual</span>\n      <h1>FreeGate 节点交付与数据中继系统</h1>\n      <p class=\"hero-desc\">本文档列明系统端口分配基准、多宿主路由策略及配套服务套餐。所有订阅与网络通讯均遵循标准加密传输协议，用于保障跨域数据链路的确定性与连通性。</p>\n      <div class=\"hero-actions\">\n        <a href=\"#plans\" class=\"btn-primary\">调取服务配置</a>\n        <a href=\"#setup\" class=\"btn-secondary\">查看对接规范</a>\n      </div>\n    </div>\n    <div class=\"hero-void\"></div>\n  </section>\n\n  <section id=\"specs\">\n    <div class=\"section-header\">\n      <span class=\"section-kicker\">Architecture</span>\n      <h2>核心调度指标</h2>\n    </div>\n    <div class=\"specs-grid\">\n      <article class=\"spec-block\">\n        <h3>多重接入隧道</h3>\n        <p>支持按用户身份分配独立订阅哈希，通过动态端点调度隔离并发流量，避免单点阻断扩散至全域集群。</p>\n      </article>\n      <article class=\"spec-block\">\n        <h3>配额计量模式</h3>\n        <p>系统按实际双向通道出入流量合并计算。周期重置日以账单生成时间戳为准，无多余隐藏扣除项目。</p>\n      </article>\n      <article class=\"spec-block\">\n        <h3>跨平台分发兼容</h3>\n        <p>输出格式标准遵循公有核心配置文件规范，支持直连解析，不锁定特定专有二进制运行环境。</p>\n      </article>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <div class=\"section-header\">\n      <span class=\"section-kicker\">Subscriptions</span>\n      <h2>节点资源与配额清单</h2>\n    </div>\n    <div class=\"table-wrap\">\n      <table>\n        <thead>\n          <tr>\n            <th>服务层级</th>\n            <th>结算周期基准</th>\n            <th>每月数据流量</th>\n            <th>并发终端上限</th>\n            <th>接入特性与路由组</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>\n              <div class=\"plan-name\">基础版</div>\n            </td>\n            <td>\n              <div class=\"price-tag\">¥15/月</div>\n              <div class=\"sub-price\">按年付仅需 ¥150/年</div>\n            </td>\n            <td>100GB</td>\n            <td>3 台</td>\n            <td>普通线路节点池，支持基础流媒体解析</td>\n          </tr>\n          <tr>\n            <td>\n              <div class=\"plan-name\">旗舰版 <span class=\"badge-featured\">推荐</span></div>\n            </td>\n            <td>\n              <div class=\"price-tag\">¥35/月</div>\n              <div class=\"sub-price\">按年付仅需 ¥350/年</div>\n            </td>\n            <td>300GB</td>\n            <td>5 台</td>\n            <td>IPLC 专线游戏加速优化，全节点原生流媒体解锁，7x24 优先工单响应</td>\n          </tr>\n          <tr>\n            <td>\n              <div class=\"plan-name\">团队版</div>\n            </td>\n            <td>\n              <div class=\"price-tag\">¥85/月</div>\n              <div class=\"sub-price\">按年付仅需 ¥850/年</div>\n            </td>\n            <td>1000GB</td>\n            <td>20 台</td>\n            <td>VIP 专属高带宽节点池，支持企业定制路由规则与专属客户经理</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"setup\">\n    <div class=\"section-header\">\n      <span class=\"section-kicker\">Deployment</span>\n      <h2>标准初始化流程</h2>\n    </div>\n    <div class=\"flow-steps\">\n      <div class=\"step-item\">\n        <span class=\"step-num\">01. 生成配置</span>\n        <h3>获取订阅凭证</h3>\n        <p>在用户控制台选定服务层级并确认订单后，系统将下发唯一的订阅 URL 及专属配置文件。</p>\n      </div>\n      <div class=\"step-item\">\n        <span class=\"step-num\">02. 导入核心</span>\n        <h3>载入本地客户端</h3>\n        <p>将订阅链接复制至经过验证的通用网络代理内核工具，触发远端节点清单同步解析。</p>\n      </div>\n      <div class=\"step-item\">\n        <span class=\"step-num\">03. 策略指定</span>\n        <h3>分流规则编排</h3>\n        <p>依据业务需求配置分流列表，指定直连网段与代理路由，避免内网服务受到流量穿透影响。</p>\n      </div>\n      <div class=\"step-item\">\n        <span class=\"step-num\">04. 连通校验</span>\n        <h3>链路延迟探针</h3>\n        <p>通过控制台内置测试脚本验证 TCP 与 UDP 端口响应状态，确立主备用链路切换顺序。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"clients\">\n    <div class=\"section-header\">\n      <span class=\"section-kicker\">Endpoints</span>\n      <h2>终端支持说明</h2>\n    </div>\n    <div class=\"client-info-grid\">\n      <div class=\"client-text\">\n        <p>FreeGate 不提供捆绑式专有第三方可执行程序。用户可通过各平台成熟的开源网络核心程序（如 Clash、Sing-box、Surge、v2ray 等标准通用内核）加载订阅信息。</p>\n        <p>各操作系统环境均采用标准化配置文件结构下发，无需安装额外驱动即可直接依托本地 TUN/TAP 虚拟网卡设备运行。</p>\n      </div>\n      <div>\n        <ul class=\"protocol-list\">\n          <li>\n            <span class=\"protocol-name\">macOS / iOS</span>\n            <span class=\"protocol-desc\">支持通用配置文件直接导入，兼容系统 Network Extension</span>\n          </li>\n          <li>\n            <span class=\"protocol-name\">Windows 10 / 11</span>\n            <span class=\"protocol-desc\">通过系统服务驱动接管本地流量，需授予管理员网络权限</span>\n          </li>\n          <li>\n            <span class=\"protocol-name\">Linux (amd64 / arm64)</span>\n            <span class=\"protocol-desc\">支持 systemd 守护进程运行模式及无头服务器终端调用</span>\n          </li>\n          <li>\n            <span class=\"protocol-name\">OpenWrt / 路由系统</span>\n            <span class=\"protocol-desc\">支持软路由旁路部署模式，实现局域网设备无感透明分流</span>\n          </li>\n        </ul>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <div class=\"section-header\">\n      <span class=\"section-kicker\">Troubleshooting</span>\n      <h2>常见问题解答</h2>\n    </div>\n    <div class=\"faq-grid\">\n      <div class=\"faq-item\">\n        <h3>多设备在线数量是如何判定的？</h3>\n        <p>系统网关在传输层动态维护客户端公网出口 IP 与哈希映射表。若同一时刻发起握手的独立公网网络环境超出套餐上限，后发起的连接请求将被限流或返回连接超时错误。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>流量配额用尽后的处理逻辑是什么？</h3>\n        <p>当月统计周期内已用传输量达到账单配额后，节点权限将被临时挂起，数据连接返回阻断状态。用户可选择追加流量附加包或等待下一个账单周期的自动重置。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>团队版定制路由具体支持哪些范畴？</h3>\n        <p>团队版允许为特定组织实体划分独立出口池，并支持结合企业固定办公公网 IP 建立安全访问白名单，以保障特定企业级私有云或协同平台的访问合规。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>如何排查订阅信息更新失败的情况？</h3>\n        <p>请首先检查本机系统时间是否已通过 NTP 服务校准同步，时差超过 60 秒可能导致 TLS 握手失败；其次确认本地网络环境是否能正常解析订阅接口的 DNS 地址。</p>\n      </div>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <div class=\"footer-container\">\n    <div>FreeGate Network Specification. All technical parameters are subject to the active subscription profile.</div>\n    <div>Strictly Structured • Static Reference Manual</div>\n  </div>\n</footer>",
+          "hash": "3662f5ece2c7d5dc4c565ba425d434c9a804ba7b3bf43ff53dee0b87e2b0daf0",
+          "seo": {
+            "title": "FreeGate 服务规格与接入文档",
+            "keywords": "FreeGate, 网络协议, 节点订阅, 服务规格, 客户端配置",
+            "description": "FreeGate 为网络数据转发与节点调度提供规范化支持。本文档载明连接协议、客户端接入指引、套餐配额及运维常见问题。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "6630",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "n4uz85.cn",
+    "host": "p-22309dac9b.n4uz85.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "206ef1f8eccb9f8dd0122cf3b63c2603ce73baf39e1dfb5dc5ceb28515416375",
+    "sitemap.xml": "48231aeb5ff2e540e58f929e2bb7e5fc800cd75f68fa6943052ef8b40aceafae",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3d40679da354768dd705579eca64524eda620ddcf1f7167421ed61db08b363e8",
+    "robots.txt": "d8e3b69ec94fbf9c935c792bb369564fd2d13ec0be979e8f74c49c59b68f23a3",
+    "22d52bc1730affba1136414f9cd6b732.txt": "4ec33ecc38fd6e04d32a0553f0fa198d2716b3dd3dd547fa59bd734a9d29baa4"
+  },
+  "revision": "2e6070c0364801cd3a35ac4e4cf75aae2835bef8792fc2b714da0e1cf4fd73ba"
+}
